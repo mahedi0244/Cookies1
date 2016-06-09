@@ -6,3 +6,8 @@ When'they'refresh'the'page,'if'their'name'has'been'set,'welcome' them'to'the'pag
 -->>On'a'separate'page,'create'a'basic'jQuery'animaAon.'Don't'show'
 the'animaAon'if'the'user'has'already'been'cookied/been'to'the'
 page.
+
+Hint: 
+
+--->> set up the local host from console: change the current folder to the project folder and type (python -m SimpleHTTPServer 8000)
+--->> in the browser type (http://localhost:8000/)
